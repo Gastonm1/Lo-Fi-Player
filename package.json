@@ -1,7 +1,7 @@
 {
   "name": "react-music-player",
   "version": "0.1.0",
-  "homepage": "http://Gastonm1.github.io/react-music-player",
+  "homepage": "http://Gastonm1.github.io/Lo-Fi-Player",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
